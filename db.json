@@ -33,6 +33,149 @@
             "imageUrl": "https://assets.myntassets.com/f_webp,w_980,c_limit,fl_progressive,dpr_2.0/assets/images/2022/5/31/4031994d-9092-4aa7-aea1-f52f2ae5194f1654006594976-Activewear_DK.jpg"
         }
     ],
+    "userData":[
+  {
+    "name": "John Doe",
+    "age": 28,
+    "email": "john.doe@example.com",
+    "mobileNo": "123-456-7890",
+    "gender": "Male",
+    "address": {
+      "street": "123 Main Street",
+      "city": "Anytown",
+      "state": "CA",
+      "zip": "12345",
+      "country": "USA"
+    }
+  },
+  {
+    "name": "Jane Smith",
+    "age": 35,
+    "email": "jane.smith@example.com",
+    "mobileNo": "987-654-3210",
+    "gender": "Female",
+    "address": {
+      "street": "456 Oak Avenue",
+      "city": "Cityville",
+      "state": "NY",
+      "zip": "54321",
+      "country": "USA"
+    }
+  },
+  {
+    "name": "Michael Johnson",
+    "age": 42,
+    "email": "michael.johnson@example.com",
+    "mobileNo": "555-123-4567",
+    "gender": "Male",
+    "address": {
+      "street": "789 Elm Street",
+      "city": "Townsville",
+      "state": "TX",
+      "zip": "98765",
+      "country": "USA"
+    }
+  },
+  {
+    "name": "Emily Brown",
+    "age": 29,
+    "email": "emily.brown@example.com",
+    "mobileNo": "111-222-3333",
+    "gender": "Female",
+    "address": {
+      "street": "555 Maple Road",
+      "city": "Villageville",
+      "state": "IL",
+      "zip": "60601",
+      "country": "USA"
+    }
+  },
+  {
+    "name": "William Taylor",
+    "age": 31,
+    "email": "william.taylor@example.com",
+    "mobileNo": "444-555-6666",
+    "gender": "Male",
+    "address": {
+      "street": "777 Pine Street",
+      "city": "Countryside",
+      "state": "GA",
+      "zip": "30301",
+      "country": "USA"
+    }
+  },
+  {
+    "name": "Olivia Wilson",
+    "age": 26,
+    "email": "olivia.wilson@example.com",
+    "mobileNo": "777-888-9999",
+    "gender": "Female",
+    "address": {
+      "street": "999 Cedar Lane",
+      "city": "Hometown",
+      "state": "FL",
+      "zip": "12345",
+      "country": "USA"
+    }
+  },
+  {
+    "name": "Ethan Miller",
+    "age": 24,
+    "email": "ethan.miller@example.com",
+    "mobileNo": "222-333-4444",
+    "gender": "Male",
+    "address": {
+      "street": "111 Birch Avenue",
+      "city": "Suburbia",
+      "state": "OH",
+      "zip": "43201",
+      "country": "USA"
+    }
+  },
+  {
+    "name": "Sophia Martinez",
+    "age": 30,
+    "email": "sophia.martinez@example.com",
+    "mobileNo": "666-777-8888",
+    "gender": "Female",
+    "address": {
+      "street": "222 Willow Lane",
+      "city": "Metropolis",
+      "state": "CA",
+      "zip": "90001",
+      "country": "USA"
+    }
+  },
+  {
+    "name": "Liam Thompson",
+    "age": 27,
+    "email": "liam.thompson@example.com",
+    "mobileNo": "888-999-0000",
+    "gender": "Male",
+    "address": {
+      "street": "444 Oak Street",
+      "city": "Countryside",
+      "state": "TX",
+      "zip": "98765",
+      "country": "USA"
+    }
+  },
+  {
+    "name": "Ava Jackson",
+    "age": 33,
+    "email": "ava.jackson@example.com",
+    "mobileNo": "333-444-5555",
+    "gender": "Female",
+    "address": {
+      "street": "666 Maple Road",
+      "city": "Smallville",
+      "state": "KS",
+      "zip": "66001",
+      "country": "USA"
+    }
+  }
+]
+,
     "trendiestPicks": [
         {
             "image": "https://assets.myntassets.com/f_webp,w_140,c_limit,fl_progressive,dpr_2.0/assets/images/2023/7/31/77ceae38-71d6-4399-ab77-45fbe625a1dd1690805809980-Roadster_2.png",
